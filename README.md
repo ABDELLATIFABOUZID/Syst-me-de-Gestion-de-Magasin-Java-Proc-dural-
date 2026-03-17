@@ -1,0 +1,1 @@
+une application console permettant de gérer l'inventaire d'un magasin, de réaliser des ventes et d'assurer la persistance des données via des fichiers, le tout en utilisant uniquement la programmation procédurale.
